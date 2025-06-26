@@ -3,6 +3,7 @@
 An AI-powered content-based recommendation system that suggests similar anime based on **genre**, **type**, and **title** using **TF-IDF** and **cosine similarity**.
 
 ---
+Link to the DataSets : https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
 
 ## 🛠️ Built with:
 - 🐍 Python
