@@ -107,6 +107,5 @@ Content-Based Filtering
 
 🙏 Credits
 📊 Dataset: Kaggle - Anime Recommendations Database
-
 Made with ❤️ by @Bharatmandge
 
